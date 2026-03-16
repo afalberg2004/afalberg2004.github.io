@@ -6,7 +6,7 @@ const portfolio = {
   title: "Aspiring Software Developer",
   bio: "Currently employed at Fair Way Vision, where I'm building practical experience in software development. Deeply interested in Cloud Architecture and Cybersecurity. I enjoy thinking about how systems are built, secured, and scaled. Always learning, always building.",
   email: "andrew1falberg@gmail.com",
-  github: "github.com/Venomuos997",
+  github: "https://github.com/afalberg2004",
   linkedin: "https://www.linkedin.com/in/andrew-falberg/",
   experiences: [
     {
@@ -57,7 +57,7 @@ const portfolio = {
       description:
         "This portfolio: A clean React with TypeScript site to showcase experience and projects. Focused on readability and performance.",
       tags: ["React", "TypeScript"],
-      link: "https://github.com/Venomuos997/AFalberg.github.io",
+      link: "https://github.com/afalberg2004/afalberg2004.github.io",
     },
     {
       name: "Cloud Home Lab",
