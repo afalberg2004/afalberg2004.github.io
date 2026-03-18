@@ -60,6 +60,14 @@ const portfolio = {
       link: "https://github.com/afalberg2004/afalberg2004.github.io",
     },
     {
+      name: "NexTask",
+      status: "In Progress",
+      description:
+        "A Java with Spring based task and scheduleing platform powered by AI to assist in managing daily tasks and working to complete goals and projects.",
+      tags: ["AWS", "Java", "Spring"],
+      link: undefined,
+    },
+    {
       name: "Cloud Home Lab",
       status: "In Progress",
       description:
